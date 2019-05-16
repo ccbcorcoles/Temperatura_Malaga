@@ -1,8 +1,12 @@
 # Málaga temperatures with D3.js
 
-This is my first task using D3.js for the Master's Degree in Advanced Analytics on Big Data.
+Tarea realizada dentro del Modulo 7 (Máster propio universitario en  ADVANCED ANALYTICS ON BIG DATA)  .
 
-If you want to run it in your machine, please install node.js (10.15.1) and then run the following commands:
+Para visualizar el contenido del del ejercicio hay que ejecutar los siguientes comando en el programa Visual Studio Code
 
- - npm install
- - npm start
+-npm install
+
+//Este comando no lo he ejecutado en este caso
+-npm run build:prod
+
+-npm start
